@@ -1,6 +1,6 @@
 <template>
   <select ref="sellerSelector" :value="modelValue"  class="form-select" @input="updateModelValue">
-    <option v-for="opt in options" :value="opt.value">{{ opt.text }}</option>
+    <option v-for="opt in options" :value="opt.value">{{ opt.label }}</option>
   </select>
 </template>
 

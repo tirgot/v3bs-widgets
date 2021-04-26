@@ -1,6 +1,12 @@
 
 [latest]
 
+[cmt-20210426-001]
+minor update.
+
+[cmt-20210303-001]
+Add MultiSelector widget
+
 [cmt-20210120-2]
 When build, index use absolute path to include asset files, this cause errors that the source files are not found. 
 Have to manually modify to relative path.

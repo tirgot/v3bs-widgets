@@ -1,5 +1,5 @@
 <template>
-  <table class="table table-bordered">
+  <table>
     <thead>
       <th></th>
       <th v-for="y in datasets">
