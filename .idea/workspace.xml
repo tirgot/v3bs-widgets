@@ -21,8 +21,47 @@
   <component name="ChangeListManager">
     <list default="true" id="db39035f-fd4a-4244-8995-94c0bc4168de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/releasenote.md" beforeDir="false" afterPath="$PROJECT_DIR$/releasenote.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/widgets/form/Selector.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/form/Selector.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/Message.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/MessageDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/MessageList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/MessageLog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/MessageLogForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/MessageLogList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/MessageStatus.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactmessage/MessageSummary.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customer/Customer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customer/CustomerDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customer/CustomerList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customer/TabAddress.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customer/TabOrder.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/customer/TabReview.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/Dashboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/StatOrder.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/StatPopProduct.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/StatState.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/TestBoard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/framing/Footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/framing/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/framing/Layout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/framing/NavSide.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/order/Order.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/order/OrderDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/order/OrderList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/order/OrderStatus.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/Prescription.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/PrescriptionDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/PrescriptionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/PrescriptionLog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/PrescriptionLogForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/PrescriptionLogList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/PrescriptionStatus.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/prescription/PrescriptionSummary.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/contactmessage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/sections.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/widgets/defs/func.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/defs/func.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +103,13 @@
       <workItem from="1616899946300" duration="64000" />
       <workItem from="1616900014976" duration="1000" />
       <workItem from="1616900044813" duration="981000" />
+      <workItem from="1619462598706" duration="419000" />
+      <workItem from="1624216065625" duration="234000" />
+      <workItem from="1635057016762" duration="10000" />
+      <workItem from="1635058625605" duration="106000" />
+      <workItem from="1635059847188" duration="125000" />
+      <workItem from="1635059980700" duration="68000" />
+      <workItem from="1635061111271" duration="12000" />
     </task>
     <servers />
   </component>
@@ -83,9 +129,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613343249502">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1635059947909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1613343249502" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1635059947909" />
   </component>
 </project>

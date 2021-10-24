@@ -1,5 +1,7 @@
 
 [latest]
+Bug fix:
+1. func. makeShortDate. getMonth is zero besed so it did not work in Oct.
 
 [cmt-20210426-001]
 minor update.
